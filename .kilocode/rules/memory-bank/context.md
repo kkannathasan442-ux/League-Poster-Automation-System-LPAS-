@@ -15,6 +15,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Memory bank documentation
 - [x] Recipe system for common features
 - [x] Database support with Drizzle ORM (SQLite) - Added players table schema and migration
+- [x] API routes for player creation - Added POST endpoint for player registration with auto player number generation and validation
 
 ## Current Structure
 
